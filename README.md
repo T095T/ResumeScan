@@ -32,4 +32,4 @@ A **Resume Screening App** built using **Natural Language Processing (NLP)** and
 
 
 3.Run Streamlit App
-- streamlit run app.py
+- `streamlit run app.py`

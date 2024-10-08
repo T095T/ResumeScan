@@ -22,7 +22,7 @@ A **Resume Screening App** built using **Natural Language Processing (NLP)** and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ResumeScan.git
+   git clone https://github.com/T095T/ResumeScan.git
    cd ResumeScan
 
 2.Install Dependencies

@@ -25,9 +25,11 @@ A **Resume Screening App** built using **Natural Language Processing (NLP)** and
    git clone https://github.com/T095T/ResumeScan.git
    cd ResumeScan
 
-2.Install Dependencies
--Streamlit: pip install streamlit
--NLTK: pip install nltk
+ 2. Install Dependencies
+
+- **Streamlit**: `pip install streamlit`  
+- **NLTK**: `pip install nltk`
+
 
 3.Run Streamlit App
 - streamlit run app.py
